@@ -9,4 +9,5 @@
 - [React](https://reactjs.org/) - JS library
 - [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework
 - [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
+- [FadeIn](https://github.com/gkaemmer/react-fade-in) -Dead-simple and opinionated component to fade in an element's children.
 - [UUID](https://www.npmjs.com/package/uuid) - Create a random ID
