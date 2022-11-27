@@ -1,0 +1,26 @@
+[
+  {
+    "image": "/assets/media-web-app.png",
+    "title": "Media Web App",
+    "techStach": "React.js - React Hooks - React Router - Tailwindcss",
+    "description": "A Frontend Mentor Challange. Demonstrates proficiency in implementing the UI/UX design, Working with JSON data, routing to different pages, managing state, and creating search functionality.",
+    "liveLink": "https://media-web-app.netlify.app/",
+    "repoLink": "https://github.com/AmmarCode/entertainment-web-app"
+  },
+  {
+    "image": "/assets/FEM8.png",
+    "title": "REST Countries API",
+    "techStach": "React.js - React Hooks - React Router - Tailwindcss",
+    "description": "A Frontend Mentor Challange. Demonstrates proficiency in implementing the UI/UX design, pulling data from a REST API, creating filtering and search functionalities.",
+    "liveLink": "https://rest-countries-api-fe.netlify.app/",
+    "repoLink": "https://github.com/AmmarCode/rest-countries-api"
+  },
+  {
+    "image": "assets/myBoxingShop.png",
+    "title": "MyBoxingShop",
+    "techStach": "React.js - Redux - React-Bootstrap - Python - Django REST Framework - PostgrSQL",
+    "description": "Haravard Universtiy's CS50 Web Capstone Project. Demonstrates the skills of utilizing a variety of technologies to develop & configure a Full-Stack E-commerce App, deploy it to Heroku and maintain it.",
+    "liveLink": "https://myboxingshop.herokuapp.com/",
+    "repoLink": "https://github.com/AmmarCode/myShop"
+  }
+]
