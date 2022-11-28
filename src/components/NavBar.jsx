@@ -65,30 +65,33 @@ const NavBar = ({ showNavBar, openMenu }) => {
           >
             Resume
           </a>
-          <a
+          <i
             className={`hover:cursor-pointer fixed top-[1rem] right-[1rem] text-4xl ${
               !openMenu ? "fixed" : "hidden"
             } md:hidden`}
             onClick={showNavBar}
           >
             <FaTimes />
-          </a>
+          </i>
         </FadeIn>
       </nav>
-      <a
+      <i
         className={`hover:cursor-pointer fixed top-[1rem] right-[1rem] text-4xl ${
           !openMenu ? "hidden" : "fixed"
         }  md:hidden z-10`}
         onClick={showNavBar}
       >
         <FaBars />
-      </a>
+      </i>
 
       <section className="fixed bg-[rgba(24,41,58,0.9)] bottom-0 left-0 right-0 h-[3.2rem] rounded-xl sm:h-0 z-10">
         <FadeIn delay={1900} transitionDuration={1000}>
           <ul className="social-media-icon-list flex fixed left-1/2 translate-x-[-50%] gap-3 bottom-[15px] sm:flex-col sm:left-[45px] sm:bottom-[45px]">
             <li className="social-media-icon md:w-[10px]">
-              <a href="mailto:ammar.code01@gmail.com">
+              <a
+                href="mailto:ammar.code01@gmail.com"
+                aria-label="Link to send an email"
+              >
                 <FaEnvelope />
               </a>
             </li>
@@ -96,12 +99,17 @@ const NavBar = ({ showNavBar, openMenu }) => {
               <a
                 href="https://www.linkedin.com/in/ammarjalabi/"
                 target="_blank"
+                aria-label="Link to a Linkedin profile"
               >
                 <FaLinkedin />
               </a>
             </li>
             <li className="social-media-icon md:w-[10px]">
-              <a href="https://github.com/AmmarCode" target="_blank">
+              <a
+                href="https://github.com/AmmarCode"
+                target="_blank"
+                aria-label="Link to a Github profile"
+              >
                 <FaGithub />
               </a>
             </li>

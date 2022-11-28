@@ -44,6 +44,7 @@ const Projects = () => {
                       href={project.liveLink}
                       target="_blank"
                       className="nav-item"
+                      aria-label="Link to a project's live site"
                     >
                       Live Site
                     </a>
@@ -51,6 +52,7 @@ const Projects = () => {
                       href={project.repoLink}
                       target="_blank"
                       className="nav-item"
+                      aria-label="Link to a project's github repo"
                     >
                       Github Repo
                     </a>
