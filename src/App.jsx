@@ -8,7 +8,7 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
 function App() {
-  const [openMenu, setOpenMenu] = useState(false);
+  const [openMenu, setOpenMenu] = useState(true);
   const showNavBar = () => {
     setOpenMenu(!openMenu);
   };

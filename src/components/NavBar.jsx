@@ -31,7 +31,7 @@ const NavBar = ({ showNavBar, openMenu }) => {
           transitionDuration={700}
           className={`nav-list fixed bg-[rgba(24,41,58,0.9)] z-50 ${
             openMenu ? "translate-x-[100vh]" : null
-          } left-0 top-0 w-full h-full pt-10 pb-10 flex flex-col items-center duration-500 md:translate-x-[-100] md:duration-0 md:flex-row md:justify-end md:left-0 md:top-0 md:right-0 md:h-10 md:bg-inherit md:py-10 md:pr-5 md:bg-[rgba(24,41,58,0.9)]`}
+          } left-0 top-0 w-full h-full pt-10 pb-10 flex flex-col items-center justify-between duration-500 md:translate-x-[-100] md:duration-0 md:flex-row md:justify-end md:left-0 md:top-0 md:right-0 md:h-10 md:bg-inherit md:py-10 md:pr-5 md:bg-[rgba(24,41,58,0.9)]`}
         >
           <img
             src="/assets/AmmarCodeLogo.png"
