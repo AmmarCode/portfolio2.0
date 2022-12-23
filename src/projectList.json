@@ -14,13 +14,5 @@
     "description": "A Frontend Mentor Challange. Demonstrates proficiency in implementing the UI/UX design, pulling data from a REST API, creating filtering and search functionalities.",
     "liveLink": "https://rest-countries-api-fe.netlify.app/",
     "repoLink": "https://github.com/AmmarCode/rest-countries-api"
-  },
-  {
-    "image": "assets/myBoxingShop.png",
-    "title": "MyBoxingShop",
-    "techStach": "React.js - Redux - React-Bootstrap - Python - Django REST Framework - PostgrSQL",
-    "description": "Haravard Universtiy's CS50 Web Capstone Project. Demonstrates the skills of utilizing a variety of technologies to develop & configure a Full-Stack E-commerce App, deploy it to Heroku and maintain it.",
-    "liveLink": "https://myboxingshop.herokuapp.com/",
-    "repoLink": "https://github.com/AmmarCode/myShop"
   }
 ]
