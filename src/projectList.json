@@ -14,5 +14,13 @@
     "description": "A Frontend Mentor Challange. Demonstrates proficiency in implementing the UI/UX design, pulling data from a REST API, creating filtering and search functionalities.",
     "liveLink": "https://rest-countries-api-fe.netlify.app/",
     "repoLink": "https://github.com/AmmarCode/rest-countries-api"
+  },
+  {
+    "image": "/assets/screenshot.png",
+    "title": "PayAPI multi-page website",
+    "techStach": "React.js - React Hooks - React Router - Tailwindcss",
+    "description": "A Frontend Mentor Challange. Demonstrates proficiency in implementing the UI/UX design using advanced css.",
+    "liveLink": "https://payapi-frontend.netlify.app/",
+    "repoLink": "https://github.com/AmmarCode/payApiFrontEnd"
   }
 ]
