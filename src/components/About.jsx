@@ -34,7 +34,7 @@ const About = () => {
           With a strong background in both Frontend and Backend Development, I am currently honing my skills in fullstack technologies. 
           Proficient in a wide array of tools including HTML, CSS, JavaScript, React.js, Redux, Tailwindcss, Bootstrap, Node.js, Express, 
           Python, Django, PostgreSQL, Git, Github, and Postman. Beyond coding, 
-          I enjoy immersing myself in nature through hiking, refining my target practice abilities, maintaining an active lifestyle through exercise, 
+          I enjoy immersing myself in nature through hiking, refining my target practice abilities at the range, maintaining an active lifestyle through exercise, 
           and cherishing moments with my family and community.
         </p>
       </div>
