@@ -59,7 +59,7 @@ const Skills = () => {
           data-aos-easing="ease-in-sine"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+          src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"
           alt="tech-icon"
           className="w-12 h-12 md:w-20 md:h-20 lg:w-28 lg:h-28 bg-white p-1 sm:p-2 rounded-lg"
           data-aos-duration="700"
