@@ -16,12 +16,10 @@ const Contact = () => {
     >
       <h2 className="text-4xl md:text-5xl mb-10 text-[#07f59a]">Contact me</h2>
       <h3 className="text-xl sm:text-2xl">
-        Do you like what you see? Let's talk business!
+        Let's talk business!
       </h3>
       <p className="text-lg">
-        Click on the Envelope icon to send me an email, the Linkedin icon to
-        connect with me on Linkedin, or the Github icon to check out my Github
-        profile.
+        Click on the Envelope icon to send me an email, or click on your favorite platform icon to connect with me.
       </p>
       <div className="arrow bounceLeft mb-0 sm:my-0 sm:py-0">
         <FaArrowLeft className="text-8xl hidden sm:block mt-[3rem]" />

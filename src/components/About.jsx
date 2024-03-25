@@ -26,9 +26,10 @@ const About = () => {
           alt="Ammar's Image"
         />
         <p className="sm:w-1/2 text-lg">
-          I am a former professional Mixed Martial Arts Fighter and Coach turned Software Engineer, embodying humility and a dedication to continuous self-improvement. 
-          With a fervor for Software Engineering, I excel as a meticulous problem-solver with a keen eye for detail. 
-          My adept communication skills, coupled with fluency in multiple languages (Arabic, English, Mandarin, and Turkish), enhance my ability to connect effectively.
+        Shifting from a professional background in Mixed Martial Arts to the dynamic realm of Software Engineering, 
+        I bring a blend of humility, dedication to growth, and a passion for problem-solving. With a keen eye for detail and a fervor for software development, 
+        I thrive in tackling intricate challenges. My proficiency in multiple languages (Arabic, English, Mandarin, and Turkish) enhances my communication skills, 
+        facilitating impactful connections and collaborations.
           <br />
           <br />
           With a strong background in both Frontend and Backend Development, I am currently honing my skills in fullstack technologies. 
