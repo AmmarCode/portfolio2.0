@@ -14,7 +14,7 @@ const Intro = () => {
           <p className="text-lg md:text-xl text-[#07f59a]">Hello, my name is</p>
           <h1 className="text-4xl md:text-8xl">Ammar Jalabi.</h1>
           <h2 className="text-lg md:text-2xl">
-            I'm a Software Engineer based in Columbia, South Carolina.
+            I'm a Software Engineer based in Istanbul, TÜrkiye.
           </h2>
         </div>
       </FadeIn>
